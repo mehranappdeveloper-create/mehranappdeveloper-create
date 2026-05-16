@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Firebase+%7C+Node.js+%7C+MongoDB;Building+beautiful+cross-platform+apps;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
@@ -34,7 +34,7 @@ class MehranHanif extends FlutterDeveloper {
 
   String get passion => "Building impactful digital solutions ❤️";
 }
-` ` `
+```
 
 ---
 
@@ -45,28 +45,11 @@ class MehranHanif extends FlutterDeveloper {
 [![Gmail](https://img.shields.io/badge/Gmail-mehranhanif66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehranhanif66@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20344%209623516-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923449623516)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehran%20Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehran-hanif-3b7680285/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-mehranappdeveloper-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mehranappdeveloper)
+[![Dev.to](https://img.shields.io/badge/Dev.to-mehranappdeveloper-555555?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=555555&color=FFCA28)](https://dev.to/mehranappdeveloper)
 [![Facebook](https://img.shields.io/badge/Facebook-Mehran-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61589129794875)
-[![GitHub](https://img.shields.io/badge/GitHub-mehranappdeveloper--create-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehranappdeveloper-create)
+[![GitHub](https://img.shields.io/badge/GitHub-mehranappdeveloper--create-white?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=white)](https://github.com/mehranappdeveloper-create)
 
 </div>
-
----
-
-## 🚀 Languages and Tools I Use
-
-<p align="center">
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
-<a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/></a>
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/></a>
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/></a>
-<a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
-<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-</p>
 
 ---
 
@@ -149,7 +132,7 @@ class MehranHanif extends FlutterDeveloper {
           <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Always building something new. Follow me on GitHub to stay updated!</p>
+      <p>Always building something new. Follow me on GitHub to stay updated with my latest projects and experiments.</p>
       <p><code>Flutter</code> <code>Node.js</code> <code>Firebase</code> <code>MongoDB</code></p>
     </td>
   </tr>
@@ -159,12 +142,33 @@ class MehranHanif extends FlutterDeveloper {
 
 ## 💼 Work Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🚀 Flutter App Developer | Tech Forge Solution | 2025 – Present |
-| 💻 Freelance Flutter Developer | Self-Employed | Remote |
-| 🌐 WordPress Developer | Hilal Technology | 2020 – 2023 |
-| 🎨 Graphic Designer | Unique Design Studio | 2018 – 2020 |
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Company</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td>🚀 Flutter App Developer</td>
+    <td>Tech Forge Solution</td>
+    <td>2025 – Present</td>
+  </tr>
+  <tr>
+    <td>💻 Freelance Flutter Developer</td>
+    <td>Self-Employed</td>
+    <td>Remote</td>
+  </tr>
+  <tr>
+    <td>🌐 WordPress Developer</td>
+    <td>Hilal Technology</td>
+    <td>2020 – 2023</td>
+  </tr>
+  <tr>
+    <td>🎨 Graphic Designer</td>
+    <td>Unique Design Studio</td>
+    <td>2018 – 2020</td>
+  </tr>
+</table>
 
 ---
 
@@ -195,9 +199,9 @@ class MehranHanif extends FlutterDeveloper {
 
 ## 🌍 Languages
 
-![Urdu](https://img.shields.io/badge/Urdu-Native-1A5276?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate-2E86C1?style=for-the-badge)
-![Pashto](https://img.shields.io/badge/Pashto-Native-1A7A4A?style=for-the-badge)
+![Urdu](https://img.shields.io/badge/Urdu-Native-1A5276?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate-2E86C1?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Pashto](https://img.shields.io/badge/Pashto-Native-1A7A4A?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -208,8 +212,3 @@ class MehranHanif extends FlutterDeveloper {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-```
-
-**Ek important note:** Upar `About Me` section mein jo dart code block hai, wahan ` ` ` (spaces wale) ki jagah asli backticks ` ``` ` lagayein — maine yahan formatting ki wajah se spaces diye hain.
-
-Seedha GitHub pe **README.md** file mein paste karein, sab kuch theek kaam karega! ✅
